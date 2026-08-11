@@ -1,0 +1,8 @@
+{
+  "name": "chronodose-api",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "ChronoDose prototype backend — medication-timing optimizer API. Authors: Vinaya Gaduputi MD FACG & Vahin Gaduputi",
+  "scripts": { "start": "node src/index.js", "test": "node --test test/api.test.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
