@@ -1,0 +1,13 @@
+{
+  "name": "ChronoDose",
+  "short_name": "ChronoDose",
+  "description": "Not just what to take — the best time to take it, built around your day.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2A4E7E",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
